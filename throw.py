@@ -45,7 +45,7 @@ def _trhwfovbv\
 																												
 																												
 																												
-											[__import__('builtins').__getattribute__('r0und'.replace.__call__('0', __import__.__call__('builtins').__str__.__call__()[2]))((amogus := 304894019270746).__getattribute__(f'__trued{chr(int("10"+str("5")))}v__').__call__(amogus))]
+											[__import__('builtins').__getattribute__(f'r{f"{0}"}und'.replace.__call__('0', __import__.__call__('builtins').__str__.__call__()[2]))((amogus := 304894019270746).__getattribute__(f'__trued{chr(int("10"+str("5")))}v__').__call__(amogus))]
 																				):
 		return
 
