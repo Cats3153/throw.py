@@ -87,5 +87,5 @@ def _trhwfovbv\
 															);
 
 
-throw =                                                                   \
+__import__('builtins').throw =                                                                   \
 										_trhwfovbv
